@@ -1,0 +1,47 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Static and shared libraries
+*.a
+*.lib
+*.dll
+*.so
+
+# Fortran-specific
+*.mod
+*.smod
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Debug and build artifacts
+*.dSYM/
+.gdb_history
+*.pdb
+
+# OS-specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup
+*~
