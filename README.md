@@ -30,13 +30,13 @@ gcc linked_list.c -o linked_list.exe
 
 ```powershell
 cd score\c
-gcc score.c -o score_c.exe
+gcc score.c -o score.exe
 ```
 
 3. Run it:
 
 ```powershell
-./score_c.exe
+./score.exe
 ```
 
 ## Run the score Fortran program
